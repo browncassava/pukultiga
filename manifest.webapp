@@ -1,0 +1,14 @@
+{
+    "name" : "Pukul Tiga",
+    "version" : "0.1",
+    "description" : "Pukul Tiga's Blog",
+    "launch_path" : "/index.html",
+    "developer" : {
+        "name" : "rezafaiza",
+        "url" : "http://github.com/ylpmiskrad"
+    },
+    "icons" : {
+        "60" : "/icons/icon_60.png",
+        "128" : "/icons/icon_128.png"
+    }
+}
