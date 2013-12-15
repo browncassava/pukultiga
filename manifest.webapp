@@ -8,7 +8,8 @@
         "url" : "http://github.com/ylpmiskrad"
     },
     "icons" : {
-        "60" : "/icons/icon_60.png",
-        "128" : "/icons/icon_128.png"
+        "60" : "http://ylpmiskrad.github.io/pukultiga/icons/icon_60.png",
+        "128" : "http://ylpmiskrad.github.io/pukultiga/icons/icon_128.png"
+        "512" : "http://ylpmiskrad.github.io/pukultiga/icons/icon_512.png"
     }
 }
